@@ -1,0 +1,13 @@
+#modules
+node_modules
+
+#configurations
+test-conf.json
+prod-conf.json
+
+start.sh
+
+/bin
+
+#log
+telegram_bot.log
